@@ -1,5 +1,4 @@
 from PIL import Image
-from matplotlib import pyplot
 import argparse
 
 if __name__ == '__main__':
