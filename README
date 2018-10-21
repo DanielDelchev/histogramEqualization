@@ -1,4 +1,4 @@
-First excersice for ImageProcessing.
+First exercise for ImageProcessing.
 After the histogram equalization of the image 
 it obviously becomes clearer.
 The darker areas of the grayscale image become clearer (lower left), yet
